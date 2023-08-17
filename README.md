@@ -1,4 +1,4 @@
-StayNTouch Coding Exercises
+Stayntouch Coding Exercises
 =============================
 
 As a candidate to our engineering team, we are offering the following exercises to allow you to showcase your development skills. The purpose of these
