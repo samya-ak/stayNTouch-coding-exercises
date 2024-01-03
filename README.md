@@ -17,7 +17,7 @@ Submission Instructions
 Environment
 -----------
 
-Ruby 2.5.x, Rspec, Bundler
+Ruby 3.2.2, Rspec, Bundler
 
 Exercises
 =========
